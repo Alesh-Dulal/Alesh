@@ -1,0 +1,21 @@
+.header-container {
+  background-color: #800000;
+  color: #fff;
+}
+
+.header-left {
+  padding: 50px 0;
+  text-align: center;
+}
+
+.header-right {
+  padding: 5px 0;
+}
+
+.cv-detail {
+  padding: 5px 0;
+}
+
+.cv-detail a {
+  padding-left: 5px;
+}
